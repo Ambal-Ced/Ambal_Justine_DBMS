@@ -124,7 +124,7 @@ VALUES
     (5, 'MobileLegendsTV', 7, 700, 5),
     (6, 'HororoChan', 9, 950, 6),
     (7, 'CongTV', 14, 1800, 7),
-    (8, 'BluePanda', 11, 1200, 8),
+    (8, 'BluePanda', 11, 1200, 😎,
     (9, 'LeomordLegend', 13, 1600, 9),
     (10, 'ShinmenX', 6, 650, 10);
 	
